@@ -178,3 +178,11 @@ main section{
     text-align: center;
     margin-top: 50px;
 }
+
+/* footer styles */
+
+footer{
+    display: flex;
+    background: #f8ede5;
+    padding: 130px 230px;
+}
