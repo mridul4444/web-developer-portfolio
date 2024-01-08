@@ -183,6 +183,23 @@ main section{
 
 footer{
     display: flex;
+    gap: 150px;
     background: #f8ede5;
-    padding: 130px 230px;
+    padding: 200px 300px;
+}
+.footer-column{
+    width: 50%;
+}
+.contact-form input,textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 70px 85px;
+    color: #757575;
+    border-radius: 5px;
+    background-color: #FFF;
+    border: 0;
+    width: 100%;   
+}
+.input submit{
+    color: #fd6e0a;
 }
